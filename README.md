@@ -1,2 +1,2 @@
-# Reaction1
+# Reaction
 Reakcióidő mérő játék
